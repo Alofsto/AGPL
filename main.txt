@@ -1,0 +1,26 @@
+
+      __              _        __     _        
+     /  \       /\   | |      / _|   | |       
+     |         /  \  | | ___ | |_ ___| |_ ___  
+  ___|        / /\ \ | |/ _ \|  _/ __| __/ _ \ 
+ /   |       / ____ \| | (_) | | \__ \ || (_) |
+ \__/|      /_/    \_\_|\___/|_| |___/\__\___/ 
+
+With this software, you gain permission to modify, copy, and merge the software or any of 
+its parts, providing that attribution is given to the original authors.  You may not
+modify, remove, obfuscate, or hide, any part of this software stating the original creator
+of this software. You may distribute the software if it is unmodified. However, if it
+is modified, then you must provide attribution on the distribution location as well.
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE 
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR 
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+DEALINGS IN THE SOFTWARE.
+
+NOTE: PORTIONS OF THIS LICENSE ARE SOURCED FROM THE MIT LICENSE.
+THE ORIGINAL MIT LICENSE CAN BE FOUND AT:
+https://en.wikipedia.org/wiki/MIT_License#License_terms
