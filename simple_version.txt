@@ -1,0 +1,37 @@
+
+      __              _        __     _        
+     /  \       /\   | |      / _|   | |       
+     |         /  \  | | ___ | |_ ___| |_ ___  
+  ___|        / /\ \ | |/ _ \|  _/ __| __/ _ \ 
+ /   |       / ____ \| | (_) | | \__ \ || (_) |
+ \__/|      /_/    \_\_|\___/|_| |___/\__\___/ 
+
+=================================================================
+| This is the simlified version of the Alofsto General Public   |
+| License. The original can be viewed at https://bit.ly/agplraw |
+=================================================================
+
+You may: 
+- modify
+- copy
+- merge
+the software IF you give credit.
+
+You may not
+- modify
+- remove
+- obfuscate
+- hide
+any part of the software that says it's original creator.
+
+You may distribute the software if it is unmodified. However, if it 
+is modified, then you must give credit wherever you distribute it.
+
+This notice must be included in any part of this software.
+
+THE SOFTWARE IS PROVIDED WITHOUT WARRANTY. THE AUTHORS OR COPYRIGHT HOLDERS 
+SHALL NEVER BE HELD LIABLE FOR ANY ACTIONS OR DAMAGE CAUSED BY THE SOFTWARE.
+
+NOTE: PORTIONS OF THIS LICENSE ARE SOURCED FROM THE MIT LICENSE.
+THE ORIGINAL MIT LICENSE CAN BE FOUND AT:
+https://en.wikipedia.org/wiki/MIT_License#License_terms
