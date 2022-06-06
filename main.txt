@@ -6,6 +6,12 @@
  /   |       / ____ \| | (_) | | \__ \ || (_) |
  \__/|      /_/    \_\_|\___/|_| |___/\__\___/ 
 
+=================================================================
+| This is the official and legally binding version of the       |
+| Alofsto General Public License. A simpler version             |
+| can be viewed at https://bit.ly/agplsraw.                     |
+=================================================================
+
 With this software, you gain permission to modify, copy, and merge the software or any of 
 its parts, providing that attribution is given to the original authors.  You may not
 modify, remove, obfuscate, or hide, any part of this software stating the original creator
